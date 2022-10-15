@@ -22,4 +22,4 @@ Is a document database used to build highly available and scalable internet appl
 
 ---
 
-OBS: The code was based on another, but adapted to the point of having its own inspiration, but here I give permission for public use even if in full
+OBS: The code was based on another (https://gist.github.com/fuzzyami/f3a7231037166117a6fef9607960aee7), but adapted to the point of having its own inspiration, but here I give permission for public use even if in full
