@@ -19,3 +19,7 @@ Is useful for carrying out programming for scalable servers and large software s
 
 ### MongoDB
 Is a document database used to build highly available and scalable internet applications. With its flexible schema approach, it's popular with development teams using agile methodologies.
+
+---
+
+OBS: The code was based on another, but adapted to the point of having its own inspiration, but here I give permission for public use even if in full
